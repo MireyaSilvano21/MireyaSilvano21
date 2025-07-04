@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m a software developer student, currently my degree. I am expanding my knowledge in both front-end and back-end development. i love to learn and buil someting new, productive, innovative, and creative.</p>
+<p align="left">I’m a software developer student, currently my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and buil someting new, productive, innovative, and creative.</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">i code with</p>
+<p align="left">I code with</p>
 
 ###
 
